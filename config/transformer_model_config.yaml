@@ -1,0 +1,10 @@
+conv_kernel_sizes: [32, 16]
+conv_filters: [32, 64]
+pooling: 1
+num_layers: 1
+dim_model: 256
+num_heads: 8
+dim_ff: 1024
+max_positional_encoding_input: 84
+dropout_rate: 0.1
+model_name: 'transformer_forecasting'

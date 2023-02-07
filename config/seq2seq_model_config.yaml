@@ -1,0 +1,7 @@
+conv_kernel_sizes: [32, 16]
+conv_filters: [32, 64]
+pooling: 1
+encoder_lstm_dim: 128
+decoder_lstm_dims: [128]
+decoder_embed_layer_dim: 32
+model_name: 'seq2seq_forecasting'

@@ -1,0 +1,7 @@
+window_in: 400
+window_out: 30
+window_shift: 200
+shuffle_buffer_size: 2048
+batch_size: 64
+num_test_series: 200
+epochs: 90

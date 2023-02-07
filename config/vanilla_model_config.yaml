@@ -1,0 +1,7 @@
+lstm_dim: 128
+conv_kernel_sizes: [32, 16]
+conv_filters: [32, 64]
+pooling: 1
+mlp_layer_sizes: [256, 128]
+lr: 0.001
+model_name: 'dense_decoder_forecasting'
